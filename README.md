@@ -1,7 +1,7 @@
 # Automated Testing with Selenium
 To develop automated test scripts using Selenium for testing web application functionalities, execute these scripts, and generate comprehensive test reports.
 ## Table of contents
--Prereqisites
+- Prereqisites
 - Environment setup
 
 ## Prereqisites
@@ -9,21 +9,21 @@ To develop automated test scripts using Selenium for testing web application fun
 - **pip**: Package manager for Python
 
 ## Environment setup
--Programming Language: Install Python at https://www.python.org/downloads/
--IDE: Install PyCharm at https://www.jetbrains.com/pycharm/download/?section=windows
--Browser: Chrome
--WebDriver: Install ChromeDriver at https://developer.chrome.com/docs/chromedriver/download/
--To install Selenium and pytest, open your terminal and run:
+- Programming Language: Install Python at https://www.python.org/downloads/
+- IDE: Install PyCharm at https://www.jetbrains.com/pycharm/download/?section=windows
+- Browser: Chrome
+- WebDriver: Install ChromeDriver at https://developer.chrome.com/docs/chromedriver/download/
+- To install Selenium and pytest, open your terminal and run:
 ```bash
  pip install selenium pytest
 ```
 
 ## Running with Pytest
--Write the test scripts, then run the script by opening the terminal and run:
+- Write the test scripts, then run the script by opening the terminal and run:
 ```bash
 pytest opencart_automatic_testing.py
 ```
--With opencart_automatic_testing.py is a name of test file
+- With opencart_automatic_testing.py is a name of test file
 
 -To get even more detailed output, use the -v flag:
 ```bash
