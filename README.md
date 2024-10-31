@@ -38,4 +38,4 @@ pip install pytest-html
 ```bash
 pytest --html=report-AutomaticTesting.html
 ```
--The report.html file will be saved in the same directory as the test file.
+- The report.html file will be saved in the same directory as the test file.
